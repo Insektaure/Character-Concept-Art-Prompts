@@ -454,3 +454,33 @@ Galactic courier character design, sleek space suit, delivery satchel, holograph
 ```
 Haunted marionette doll character design, porcelain face with cracks, Victorian dress, eerie strings, abandoned theater background, concept art, full body, highly detailed, creepy and whimsical atmosphere
 ```
+
+## Solar Priestess
+
+```
+Character design of a solar priestess, radiant golden robes, sun-shaped staff, glowing aura, ancient temple background, concept art, full body, highly detailed, warm and divine atmosphere
+```
+
+## Cyberpunk Courier
+
+```
+Cyberpunk courier character design, sleek urban outfit, neon highlights, high-tech backpack, futuristic cityscape background, concept art, full body, highly detailed, vibrant cyberpunk style
+```
+
+## Mountain Hermit Monk
+
+```
+Mountain hermit monk character design, simple robes, wooden staff, long beard, serene mountain background, concept art, full body, highly detailed, peaceful and wise appearance
+```
+
+## Enchanted Toymaker
+
+```
+Enchanted toymaker character design, whimsical clothes, magical tools, surrounded by animated toys, cozy workshop background, concept art, full body, highly detailed, magical and playful style
+```
+
+## Phantom Pirate
+
+```
+Phantom pirate character design, ghostly translucent form, tattered pirate coat, glowing cutlass, haunted ship background, concept art, full body, highly detailed, eerie and adventurous atmosphere
+```
