@@ -394,3 +394,63 @@ Space marine commander character design, heavy futuristic armor, energy rifle, b
 ```
 Enchanted puppet master character design, elegant Victorian attire, magical marionettes, mysterious theater background, concept art, full body, highly detailed, whimsical and eerie atmosphere
 ```
+
+## Bioengineered Jungle Hunter
+
+```
+Character design of a bioengineered jungle hunter, camouflaged armor with plant elements, high-tech crossbow, glowing green eyes, dense rainforest background, concept art, full body, highly detailed, sci-fi nature fusion
+```
+
+## Arcane Clocktower Keeper
+
+```
+Arcane clocktower keeper character design, mystical robes with clock motifs, staff with spinning gears, ancient clocktower interior background, concept art, full body, highly detailed, magical steampunk style
+```
+
+## Neon Samurai
+
+```
+Neon samurai character design, glowing armor plates, energy katana, cyberpunk city at night background, concept art, full body, highly detailed, vibrant neon colors
+```
+
+## Deep Sea Diver Explorer
+
+```
+Deep sea diver explorer character design, vintage diving suit, glowing helmet, mysterious underwater ruins background, concept art, full body, highly detailed, aquatic atmosphere
+```
+
+## Dreamworld Shepherd
+
+```
+Dreamworld shepherd character design, flowing pastel robes, magical staff, surrounded by floating sheep, surreal dreamscape background, concept art, full body, highly detailed, whimsical and soft style
+```
+
+## Thunderstorm Paladin
+
+```
+Character design of a thunderstorm paladin, shining armor with lightning motifs, crackling electric sword, stormy sky background, concept art, full body, highly detailed, dramatic lighting
+```
+
+## Urban Vampire DJ
+
+```
+Urban vampire DJ character design, stylish modern clothes, headphones, fangs, neon-lit nightclub background, concept art, full body, highly detailed, vibrant nightlife atmosphere
+```
+
+## Forest Spirit Shaman
+
+```
+Forest spirit shaman character design, natural robes with leaves and vines, glowing staff, animal skull mask, ancient forest background, concept art, full body, highly detailed, mystical and earthy style
+```
+
+## Galactic Courier
+
+```
+Galactic courier character design, sleek space suit, delivery satchel, holographic interface, futuristic city background, concept art, full body, highly detailed, sci-fi style
+```
+
+## Haunted Marionette Doll
+
+```
+Haunted marionette doll character design, porcelain face with cracks, Victorian dress, eerie strings, abandoned theater background, concept art, full body, highly detailed, creepy and whimsical atmosphere
+```
