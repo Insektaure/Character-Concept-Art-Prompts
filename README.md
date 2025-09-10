@@ -484,3 +484,63 @@ Enchanted toymaker character design, whimsical clothes, magical tools, surrounde
 ```
 Phantom pirate character design, ghostly translucent form, tattered pirate coat, glowing cutlass, haunted ship background, concept art, full body, highly detailed, eerie and adventurous atmosphere
 ```
+
+## Starship Mechanic
+
+```
+Character design of a starship mechanic, oil-stained jumpsuit, futuristic tool belt, robotic arm, spaceship hangar background, concept art, full body, highly detailed, sci-fi style
+```
+
+## Enchanted Garden Fairy
+
+```
+Enchanted garden fairy character design, delicate wings, floral dress, glowing aura, lush garden background, concept art, full body, highly detailed, whimsical and magical atmosphere
+```
+
+## Druidic Beast Shapeshifter
+
+```
+Druidic beast shapeshifter character design, animalistic features, nature-inspired clothing, surrounded by spirit animals, ancient forest background, concept art, full body, highly detailed, mystical style
+```
+
+## Cyber Gladiator
+
+```
+Cyber gladiator character design, high-tech armor, energy shield, neon accents, futuristic arena background, concept art, full body, highly detailed, dynamic and bold style
+```
+
+## Haunted Clockmaker
+
+```
+Haunted clockmaker character design, Victorian attire, ghostly tools, surrounded by floating clocks, eerie workshop background, concept art, full body, highly detailed, mysterious and gothic atmosphere
+```
+
+## Infernal Warlock
+
+```
+Character design of an infernal warlock, dark robes with fiery runes, glowing red eyes, demonic staff, hellish landscape background, concept art, full body, highly detailed, ominous atmosphere
+```
+
+## Sky Kingdom Messenger
+
+```
+Sky kingdom messenger character design, feathered cloak, winged boots, scroll in hand, floating castle background, concept art, full body, highly detailed, bright and airy style
+```
+
+## Urban Parkour Runner
+
+```
+Urban parkour runner character design, athletic build, modern streetwear, dynamic leaping pose, city rooftops background, concept art, full body, highly detailed, energetic and urban style
+```
+
+## Mystic Potion Brewer
+
+```
+Mystic potion brewer character design, alchemist robes, potion vials, magical smoke, ancient apothecary background, concept art, full body, highly detailed, whimsical and magical atmosphere
+```
+
+## Cybernetic Owl Knight
+
+```
+Cybernetic owl knight character design, metallic armor with feather motifs, glowing visor, energy spear, futuristic forest background, concept art, full body, highly detailed, sci-fi fantasy fusion
+```
